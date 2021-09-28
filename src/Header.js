@@ -7,7 +7,7 @@ function Header() {
             <img className='header_logo' src='Amazon Logo.png' alt='logo'/>
             <div className='header_search'>
                 <input className='header_searchInput' type='text'/>
-                {/* logo search button */}
+                {/* logo search button will be placed here*/}
             </div>
             <div className='header_nav'>
                 <div className='header_options'>
